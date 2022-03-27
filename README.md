@@ -12,7 +12,7 @@
 
  This Game was made by my group of amazing <Code_Cadets>:
  
- Simão Bento
- Pedro Celeste
- Pedro Silva
+ Simão Bento,
+ Pedro Celeste,
+ Pedro Silva,
  Adler Araújo
